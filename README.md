@@ -1,10 +1,10 @@
-# Remove the Adblock Popup from YOUTUBE
+# YouTube Ad Remover [Meme becomes real]
 
 ![picture](meme.webp?raw=true)
 
 ## Introduction
 
-This repository contains a userscript designed to remove all the ads using the logic of the popular meme. Follow the instructions below to get started. We also have an undetected way of skipping ads if you get blocked from the video player.
+This repository contains an userscript designed to remove all the ads using the logic of the popular meme. Follow the instructions below to get started.
 
 ## Table of Contents:
 
